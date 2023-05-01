@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.planet-img {
+  width: 500px;
+  align-self: center;
+}
+
+.planet-name {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.planet-info {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
